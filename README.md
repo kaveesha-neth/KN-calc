@@ -41,4 +41,4 @@ Supports both on-screen buttons and **keyboard input**, with real-time validatio
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   git clone https://github.com/kaveesha-neth/KN-calc.git
